@@ -52,7 +52,7 @@ con_7 = st.container()
 with con_1:
     st.write('**Step 1:**')
     st.write('Click on the arrow key on the top-left side of the screen, to access sidebar.')
-    img_1 = Image.open('images\\Demo_click.png')
+    img_1 = Image.open('images//Demo_click.png')
     st.image(img_1)
     st.markdown('---')
 
