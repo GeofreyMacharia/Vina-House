@@ -61,11 +61,11 @@ with con_2:
     st.write('Select Values of the house you desire')
     img_column_1, img_column_2 = st.columns(2)
     with img_column_1:
-        sample_1 = Image.open('images\\input_sample1.png')
+        sample_1 = Image.open('images//input_sample1.png')
         st.image(sample_1)
     with img_column_2:
         st.write(' ')
-        sample_2 = Image.open('images\\input_sample2.png')
+        sample_2 = Image.open('images//input_sample2.png')
         st.image(sample_2)
     st.markdown('---')
 with con_3:
@@ -73,16 +73,16 @@ with con_3:
     st.write('With your values selected, click the "Submit" button at the bottom of the side bar.')
     submit_col, submitted_col = st.columns(2)
     with submit_col:
-        sample_3 = Image.open('images\\submit.png') 
+        sample_3 = Image.open('images//submit.png') 
         st.image(sample_3)
     with submitted_col:
-        sample_4 = Image.open('images\\submitted.png') 
+        sample_4 = Image.open('images//submitted.png') 
         st.image(sample_4)
     st.markdown('---')
 with con_4:
     st.write('**Step 4:**')
     st.write('Click the "predict house price" button located at the bottom of the page to get two price ranges of your house.')
-    sample_5 = Image.open('images\\pred.png')
+    sample_5 = Image.open('images//pred.png')
     st.image(sample_5)
     st.markdown('---')
 with con_5:
