@@ -7,4 +7,6 @@ https://vina-homes.onrender.com
 
 ### Disclaimer.
 The deployed website is slow, as i am using the free version. For better usage kindly load it up on local machine.
+
+
 The requirements for its functionality are given on "requirement.txt" file. Inaddition kindly use python version 3.11.3, as the predicting models were created using that version.
