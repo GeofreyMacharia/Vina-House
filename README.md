@@ -1,7 +1,29 @@
 # Vina-Homes.
-Web application for prediction house prices.
-The house price is determined by a number of features, such as number of bedrooms, view count, waterfronts etc.
-## Action Time.
+![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/Home.png)
+## Objective:Create ML algorithims to predicting house prices based on train/test house data as well as new data.
+## Data Sauce
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+## Technology Used
+- Python(Language written in)
+- Streamlit(Deplyoment API)
+- sckit(Library module used)
+## Methods
+- Exploratory Data Analysis(Log transformations, visualizations)
+- Data Preprocessing(Outlier removal)
+- Predictive modeling(ML Algorithms)
+- Testing
+- Deployment(Streamlit API and Render.com as host)
+## Result Preview
+Correlation heatmap
+
+![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/heatmap.png)
+
+Outlier Removal Boxplot
+![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/outliers.png)
+
+Feature Importance
+![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/featurs.png)
+# Deployment
 The web application is already deployed using render. To access it click the link below:
 https://vina-homes.onrender.com
 
