@@ -2,27 +2,17 @@
 ![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/Home.png)
 ## Objective:Create ML algorithims to predicting house prices based on train/test house data as well as new data.
 ## Table of Contents  
-[ Data Sauce](#Data-Sauce)
-
-[Technology Used](#Technology-Used)
-
-[Methods](#Methods)  
-
-[ Result Preview](#Result-Preview)  
-
-[Testing and Discussion](#Testing-and-Discussion)  
-
-[Improvements](#Improvements)  
-
-[Explore Notebook](#Explore-Notebook)  
-
-[Project Showcase](#Project-Showcase)  
-
-[Deployment-Internet](#Deployment-Internet)  
-
-[Deployment-Locally](#Deployment-Locally)
-
-[Regards](#Regards)
+- [ Data Sauce](#Data-Sauce)
+- [Technology Used](#Technology-Used)
+- [Methods](#Methods)  
+- [ Result Preview](#Result-Preview)  
+- [Testing and Discussion](#Testing-and-Discussion)  
+- [Improvements](#Improvements)  
+- [Explore Notebook](#Explore-Notebook)  
+- [Project Showcase](#Project-Showcase)  
+- [Deployment-Internet](#Deployment-Internet)  
+- [Deployment-Locally](#Deployment-Locally)
+- [Regards](#Regards)
 
 <a name="headers"/>
 
