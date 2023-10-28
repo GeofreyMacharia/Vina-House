@@ -3,15 +3,35 @@
 ## Objective:Create ML algorithims to predicting house prices based on train/test house data as well as new data.
 ## Table of Contents  
 [ Data Sauce](#Data-Sauce)
+
+
 [Technology Used](#Technology-Used)
+
+
 [Methods](#Methods)  
+
+
 [ Result Preview](#Result-Preview)  
+
+
 [Testing and Discussion](#Testing-and-Discussion)  
+
+
 [Improvements](#Improvements)  
+
+
 [Explore Notebook](#Explore-Notebook)  
+
+
 [Project Showcase](#Project-Showcase)  
-[Deployment:Internet](#Deployment:Internet)  
-[Deployment:Locally](#Deployment:Locally)
+
+
+[Deployment-Internet](#Deployment-Internet)  
+
+
+[Deployment-Locally](#Deployment-Locally)
+
+
 [Regards](#Regards)
 
 
