@@ -39,7 +39,7 @@ Model performance
   - In-depth Hyperparameter tuning to attain best results
   - Trainng other models with the data for better results. eg, neural networks, naive bayes.
 ## Explore Notebook  
-![alt text](https://github.com/GeofreyMacharia/vina-house-model-codebase/blob/main/House_Sales.ipynb)
+![Click here for notebook](https://github.com/GeofreyMacharia/vina-house-model-codebase/blob/main/House_Sales.ipynb)
 # Deployment
 The web application is already deployed using render. To access it click the link below:
 https://vina-homes.onrender.com
