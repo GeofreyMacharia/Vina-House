@@ -2,10 +2,18 @@
 ![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/Home.png)
 ## Objective:Create ML algorithims to predicting house prices based on train/test house data as well as new data.
 ## Table of Contents  
-[ Data Sauce](##headers)  
-[ Result Preview](##headers)  
-[Testing and Discussion](##headers)  
-[Emphasis](#emphasis)  
+[ Data Sauce](#Data-Sauce)
+[Technology Used](#Technology-Used)
+[Methods](#Methods)  
+[ Result Preview](#Result-Preview)  
+[Testing and Discussion](#Testing-and-Discussion)  
+[Improvements](#Improvements)  
+[Explore Notebook](#Explore-Notebook)  
+[Project Showcase](#Project-Showcase)  
+[Deployment:Internet](#Deployment:Internet)  
+[Deployment:Locally](#Deployment:Locally)
+[Regards](#Regards)
+
 
 <a name="headers"/>
 
@@ -53,12 +61,12 @@ Model performance
 ## Project Showcase
 https://github.com/GeofreyMacharia/Vina-House/assets/120192941/940a93eb-b765-44ec-9aaa-fd81a21bb7cd
 
-## Deployment - Internet
+## Deployment:Internet
 The web application is already deployed using render. 
 Kindly note the site is slow and the memory provided for free hosting is not enough to allow full functionality of the program.
 To access it click the link below:
 https://vina-homes.onrender.com
-## Deployment - Locally
+## Deployment:Locally
 - Make sure all packages written in requirements.txt are downloaded, in addition make sur to use python 3.11.3
 - Open your IDE's terminal
 - Type "Streamlit run main_house.py"
