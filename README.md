@@ -4,36 +4,25 @@
 ## Table of Contents  
 [ Data Sauce](#Data-Sauce)
 
-
 [Technology Used](#Technology-Used)
-
 
 [Methods](#Methods)  
 
-
 [ Result Preview](#Result-Preview)  
-
 
 [Testing and Discussion](#Testing-and-Discussion)  
 
-
 [Improvements](#Improvements)  
-
 
 [Explore Notebook](#Explore-Notebook)  
 
-
 [Project Showcase](#Project-Showcase)  
-
 
 [Deployment-Internet](#Deployment-Internet)  
 
-
 [Deployment-Locally](#Deployment-Locally)
 
-
 [Regards](#Regards)
-
 
 <a name="headers"/>
 
