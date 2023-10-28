@@ -22,7 +22,10 @@ Outlier Removal Boxplot
 ![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/outliers.png)
 
 Feature Importance
+
 ![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/featurs.png)
+
+
 # Deployment
 The web application is already deployed using render. To access it click the link below:
 https://vina-homes.onrender.com
