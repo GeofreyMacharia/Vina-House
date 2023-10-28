@@ -1,12 +1,12 @@
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
 # Vina-Homes.
 ![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/Home.png)
 ## Objective:Create ML algorithims to predicting house prices based on train/test house data as well as new data.
+## Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+
+## Headers
 ## Data Sauce
 https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 ## Technology Used
@@ -66,3 +66,4 @@ Geofrey Macharia.
 
 ![have a cookiee](https://github.com/GeofreyMacharia/Vina-House/assets/120192941/f03b5401-4f62-4b32-9f21-b408a99b323c)
 
+<a name="headers"/>
