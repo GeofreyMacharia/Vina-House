@@ -35,9 +35,11 @@ Model performance
 - The price of a house fluctuates on a number of factors as such having a range price enables the future customer to purchase a house given his budget range.
 - Xgb-result will be the lower limit price while the result of random-forest will be the upper limit house price.
 
-  ## Improvements
+## Improvements
   - In-depth Hyperparameter tuning to attain best results
   - Trainng other models with the data for better results. eg, neural networks, naive bayes.
+## Explore Notebook  
+![alt text](https://github.com/GeofreyMacharia/vina-house-model-codebase/blob/main/House_Sales.ipynb)
 # Deployment
 The web application is already deployed using render. To access it click the link below:
 https://vina-homes.onrender.com
