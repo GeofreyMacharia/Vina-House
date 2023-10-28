@@ -71,7 +71,7 @@ https://vina-homes.onrender.com
 - Type "Streamlit run main_house.py"
 - Enjoy
 ## Regards.
-Geofrey Macharia.
+**Geofrey Macharia.**
 
 
 ![have a cookiee](https://github.com/GeofreyMacharia/Vina-House/assets/120192941/f03b5401-4f62-4b32-9f21-b408a99b323c)
