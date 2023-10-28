@@ -42,14 +42,19 @@ Model performance
 ![Click here for notebook](https://github.com/GeofreyMacharia/vina-house-model-codebase/blob/main/House_Sales.ipynb)
 
 ## Project Showcase
+https://github.com/GeofreyMacharia/Vina-House/assets/120192941/940a93eb-b765-44ec-9aaa-fd81a21bb7cd
 
-# Deployment - Internet
+## Deployment - Internet
 The web application is already deployed using render. 
 Kindly note the site is slow and the memory provided for free hosting is not enough to allow full functionality of the program.
 To access it click the link below:
 https://vina-homes.onrender.com
-### Disclaimer.
-The deployed website is slow, as i am using the free version. For better usage kindly load it up on local machine.
+## Deployment - Locally
+- Make sure all packages written in requirements.txt are downloaded, in addition make sur to use python 3.11.3
+- Open your IDE's terminal
+- Type "Streamlit run main_house.py"
+- Enjoy
+## Regards.
+- Geofrey Macharia
+![have a cookiee](https://github.com/GeofreyMacharia/Vina-House/assets/120192941/f03b5401-4f62-4b32-9f21-b408a99b323c)
 
-
-The requirements for its functionality are given on "requirement.txt" file. Inaddition kindly use python version 3.11.3, as the predicting models were created using that version.
