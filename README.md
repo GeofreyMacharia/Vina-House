@@ -1,3 +1,9 @@
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 # Vina-Homes.
 ![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/Home.png)
 ## Objective:Create ML algorithims to predicting house prices based on train/test house data as well as new data.
