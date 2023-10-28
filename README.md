@@ -28,7 +28,7 @@ Feature Importance
 Model performance
 
 ![alt text](https://github.com/GeofreyMacharia/Vina-House/blob/main/images/result.png)
-## Testing amd Discusion 
+## Testing and Discussion 
 - For accurate results, the new test data (not split training or test data) was preprocessed inaccordance to the data used for training the moded, i.e, log transforming certain features and ultimatly transforming the data using standard scaler.
 - While the model performance of xgb-regressor and random forest were good(based on r2_score and mean squared error) they each peformed differently when it came to testing them to completely new data.
 - Xgb-regressor's home price result was slightly lower than that of random forest, however this occurance could be used to our advantage. How so? - As a range.
@@ -40,10 +40,14 @@ Model performance
   - Trainng other models with the data for better results. eg, neural networks, naive bayes.
 ## Explore Notebook  
 ![Click here for notebook](https://github.com/GeofreyMacharia/vina-house-model-codebase/blob/main/House_Sales.ipynb)
-# Deployment
-The web application is already deployed using render. To access it click the link below:
-https://vina-homes.onrender.com
 
+## Project Showcase
+
+# Deployment - Internet
+The web application is already deployed using render. 
+Kindly note the site is slow and the memory provided for free hosting is not enough to allow full functionality of the program.
+To access it click the link below:
+https://vina-homes.onrender.com
 ### Disclaimer.
 The deployed website is slow, as i am using the free version. For better usage kindly load it up on local machine.
 
